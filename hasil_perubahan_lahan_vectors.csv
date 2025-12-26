@@ -1,3 +1,4 @@
-Area_ID,T1_Class,T2_Class,Change,Latitude_Center,Longitude_Center
-Area_A,SeaLake,SeaLake,SeaLake,45.0,10.0
-Area_B,SeaLake,SeaLake,SeaLake,45.01,10.01
+Area_ID,T1_Class,T2_Class,Confidence_T1,Confidence_T2,Change,Latitude_Center,Longitude_Center
+Area_A (Deforestasi),PermanentCrop,PermanentCrop,0.10482867807149887,0.10524198412895203,PermanentCrop,45.0,10.0
+Area_B (Urbanisasi),Residential,Residential,0.10684514045715332,0.10580320656299591,Residential,45.01,10.01
+Area_C (Konsisten),Residential,PermanentCrop,0.11753170192241669,0.10721798241138458,Residential -> PermanentCrop,45.02,10.02
